@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prayer for the king</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33068</idno>
+            <idno type="STC">Wing C4188F</idno>
+            <idno type="STC">ESTC R26603</idno>
+            <idno type="EEBO-CITATION">09514728</idno>
+            <idno type="OCLC">ocm 09514728</idno>
+            <idno type="VID">43368</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43368)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1327:22, 2819:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prayer for the king</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill and Thomas Newcomb ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Order to print, with royal arms at head, on t.p. verso.</note>
+                  <note>Text in black letter.</note>
+                  <note>Reproductions of the originals in the Bodleian Library and the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Church of England --  Prayer-books and devotions --  17th century.</term>
+               <term>Prayers --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:43368:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>A PRAYER FOR THE KING.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:43368:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 44 -->
+            <head>
+               <figure>
+                  <head>
+                     <figure>
+                        <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                     </figure> RR</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>Whitehall <date>July 11. 1690.</date>
+               </dateline>
+            </opener>
+            <p>THe Queen does Approve of this Prayer, and Commands it to be Publiſhed.</p>
+            <closer>
+               <signed>Nottingham.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:43368:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 44 -->
+            <head>A PRAYER FOR THE KING, To be uſed inſtead of that appointed for His Majeſties preſent Expedition.</head>
+            <p>ALmighty and moſt Gracious God, we bleſs and magnifie thy holy Name for thy ſate Mercies to us of theſe Kingdoms, in raiſing up thy Servant King <hi>WILLIAM</hi> to be a Deliverer to us in the day of our Diſtreſs, and to reſcue us from Popiſh Tyranny when we were ſo near ſinking under it. We alſo acknowledge with all due Praiſe and Thankſgiving, that thou haſt graciouſly heard the Prayers of thy Church for him whom thou madeſt the happy Inſtrument of our Preſerva<g ref="char:EOLhyphen"/>tion; in preſerving him in ſo wonderful a man<g ref="char:EOLhyphen"/>ner from thoſe great and apparent Dangers to
+<pb n="2" facs="tcp:43368:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 45 -->
+which he expoſed his Royal Perſon for our Safety, and for the Deliverance of our ſuffer<g ref="char:EOLhyphen"/>ing Brethren. Bleſſed be thy Name, that thou haſt given ſuch viſible Tokens of thy gracious Preſence with him in this Expedition: That thou haſt not only covered his Head in the day of Battel, but encompaſt him with Salvati<g ref="char:EOLhyphen"/>on round about; that the Meſſenger of Death which came ſo near, could not hurt him; that his Enemies who rejoyced over him are clo<g ref="char:EOLhyphen"/>thed with Shame, and that thou haſt crowned him with Victory and Succeſs even above our Expectations. We beſeech thee to continue him under the Wings of thy gracious Providence; to bleſs his Arms by Sea and Land againſt the Common Enemy; and in thy good time to bring him back in Peace and Safety to our Comfort. And give us grace to live worthy of theſe Mercies, in all thankful Obedience to thy Divine Majeſty, in dutiful Subjection to them whom thou haſt ſet over us, and in entire de<g ref="char:EOLhyphen"/>pendance on thy Will, which we have found ſo gracious to us of this Church and Nation. Grant this for thy Mercies ſake, through Ieſus Chriſt our Lord.</p>
+            <closer>Amen.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill</hi> and <hi>Thomas Newcomb,</hi> Printers to the King and Queens moſt Excellent Majeſties. 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
